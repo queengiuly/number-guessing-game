@@ -25,5 +25,3 @@ A simple, fun Python project where the computer randomly selects a number betwee
 
 ---
 
-## 📸 Example Output
-
